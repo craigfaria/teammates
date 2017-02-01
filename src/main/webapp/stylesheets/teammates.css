@@ -91,7 +91,7 @@ h2 {
 }
 
 .gray {
-    color: gray;
+    color: grey;
 }
 /*-----------------------------------------------------------------------------------------*/
 
@@ -114,6 +114,7 @@ h2 {
 #textHolder {
     float: left;
     width: 520px;
+    
 }
 
 #loginHolder {
@@ -138,7 +139,7 @@ h2 {
 }
 
 #navbar li a {
-    color: white;
+    color: #00FF00;
     font-weight: bold;
     text-decoration: none;
 }
